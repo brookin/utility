@@ -10,5 +10,11 @@
             "Brookin\\Utility\\":"src/Brookin/Utility",
             "Brookin\\UtilityTest\\":"tests/Brookin/Utility"
         }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     }
 }
