@@ -1,0 +1,14 @@
+{
+    "name": "brookin/utility",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">= 5.6" 
+    },
+    "autoload": {
+        "psr-4": {
+            "Brookin\\Utility\\":"src/Brookin/Utility",
+            "Brookin\\UtilityTest\\":"tests/Brookin/Utility"
+        }
+    }
+}
